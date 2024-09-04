@@ -1,0 +1,59 @@
+{
+  "locations": [
+    {
+      "location_id": "CTP",
+      "rooms": [
+        {
+          "room_id": "G203",
+          "desks": [
+            {
+              "desk_id": "G203.D1"
+            },
+            {
+              "desk_id": "G203.D2"
+            },
+            {
+              "desk_id": "G203.D3"
+            },
+            {
+              "desk_id": "G203.D4"
+            },
+            {
+              "desk_id": "G203.D5"
+            },
+            {
+              "desk_id": "G203.D6"
+            },
+            {
+              "desk_id": "G203.D7"
+            },
+            {
+              "desk_id": "G203.D8"
+            }
+          ]
+        },
+        {
+          "room_id": "TEST",
+          "desks": [
+            {
+              "desk_id": "TEST.D1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "location_id": "33MTN",
+      "rooms": [
+        {
+          "room_id": "4.05",
+          "desks": [
+            {
+              "desk_id": "4.05.D1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
